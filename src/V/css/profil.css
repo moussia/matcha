@@ -1,0 +1,76 @@
+#card{
+    width:50%;
+    height:320px;
+    border:4px #EAEAEB solid;
+    border-radius: 5%;
+
+}
+
+/* .info-base{
+    text-align: left;
+} */
+
+.first-info{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 1%;
+}
+
+.popularity{
+    font-size: 21px;
+    font-weight: bold;
+    color: #E13232;
+}
+
+#heart{
+    margin-bottom: 3px;
+}
+
+#signal{
+    font-family: 'Arimo', sans-serif;
+    color:#E9467C;
+    text-decoration: none;
+}
+/* 
+#btn-account{
+    background-color:#E9467C; 
+    color:white; 
+    border-color:white; 
+    border-radius:20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:20px;
+    font-weight: bold;
+} */
+
+.row{
+    margin-bottom: 2.8rem;
+}
+
+.label{
+    color: #424242;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.info{
+    margin-top: 2px;
+    color: #6D6D6E;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: justify;
+    margin-right: 2%;
+}
+
+#btn-account{
+    background-color:#E9467C;
+    color:white; 
+    border-color:white; 
+    border-radius:10px;
+}

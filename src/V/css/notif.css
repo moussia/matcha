@@ -1,0 +1,16 @@
+#title{
+    color:#7CE946;
+    margin-top: 2%;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Arimo', sans-serif;
+}
+
+.alert-secondary {
+    color: #424242;
+    background-color: #EAEAEB;
+    border: 2px solid #E9467C;
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}

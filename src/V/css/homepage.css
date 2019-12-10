@@ -1,0 +1,16 @@
+body{
+    background-image: url("../pictures/home.jpg");
+}
+
+#emble{
+    margin-top: 10%;
+    font-size: 50px;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+
+#slogan{
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+}

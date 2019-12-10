@@ -1,0 +1,27 @@
+#emble{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    color: #424242;
+    font-style: italic;
+    
+}
+
+#slogan{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    color:#6D6D6E;
+}
+
+#exampleInput{
+    width: 30%;
+    border: 1px solid #E94983;
+    border-radius: 6px;
+}
+
+input[type="search"]:focus {
+	outline:none;
+}
+
+.searchRep{
+    width: 70%;
+}

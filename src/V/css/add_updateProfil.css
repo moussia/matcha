@@ -1,0 +1,15 @@
+#title{
+    color:#7CE946;
+    margin-top: 2%;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Arimo', sans-serif;
+}
+
+#btn-account{
+    background-color:#E9467C; color:white; border-color:white; border-radius:10px;
+}
+
+.form{
+    width: 70%;
+}

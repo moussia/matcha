@@ -1,0 +1,11 @@
+.bg-light 
+{
+    background-color: white!important;
+}
+
+.navbar-light .navbar-brand 
+{
+    font-family: 'Secular One', sans-serif;
+    font-size: 25px;
+}
+
