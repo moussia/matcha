@@ -28,11 +28,17 @@ Une fois qu’ils se sont réciproquement matchés, ces deux profils devront pou
 
 <img width="1433" alt="inscription" src="https://user-images.githubusercontent.com/24608242/73942764-e8e61d80-48ef-11ea-8dae-d526dbec4d8e.png">
 
+## Accueil
+
+
+
 ## Profil de l'utilisateur
 
 <img width="1434" alt="profil_user" src="https://user-images.githubusercontent.com/24608242/73942990-47130080-48f0-11ea-8e4e-af9ac7b89469.png">
 
 ## Page de notification
+
+<img width="1435" alt="notif" src="https://user-images.githubusercontent.com/24608242/73943069-6873ec80-48f0-11ea-855d-dd485c7400a3.png">
 
 ## Les matchs
 
