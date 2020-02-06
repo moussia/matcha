@@ -34,7 +34,7 @@ Une fois qu’ils se sont réciproquement matchés, ces deux profils devront pou
 
 ## Filtre
 
-
+<img width="1427" alt="filtre 28" src="https://user-images.githubusercontent.com/24608242/73943275-c30d4880-48f0-11ea-99bb-c4874fee5a29.png">
 
 ## Profil de l'utilisateur
 
@@ -45,6 +45,8 @@ Une fois qu’ils se sont réciproquement matchés, ces deux profils devront pou
 <img width="1435" alt="notif" src="https://user-images.githubusercontent.com/24608242/73943069-6873ec80-48f0-11ea-855d-dd485c7400a3.png">
 
 ## Les matchs
+
+<img width="1431" alt="Capture d’écran 2020-01-29 à 20 38 55" src="https://user-images.githubusercontent.com/24608242/73943295-cdc7dd80-48f0-11ea-97ba-c77b7e639fa9.png">
 
 ## Recherche
 
