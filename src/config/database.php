@@ -1,7 +1,7 @@
 <?php
 
-$DB_USER = "root";
-$DB_PASSWORD = "root";
+$DB_USER = "my_user_name";
+$DB_PASSWORD = "my_password";
 
 
 try
