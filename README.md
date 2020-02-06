@@ -54,5 +54,7 @@ Une fois qu’ils se sont réciproquement matchés, ces deux profils devront pou
 
 ## Note obtenu
 
+<img width="955" alt="note" src="https://user-images.githubusercontent.com/24608242/73943419-04055d00-48f1-11ea-9e34-428b07c42682.png">
+
 98/100
 
