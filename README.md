@@ -30,6 +30,10 @@ Une fois qu’ils se sont réciproquement matchés, ces deux profils devront pou
 
 ## Accueil
 
+<img width="1428" alt="accueil" src="https://user-images.githubusercontent.com/24608242/73943153-8e998c80-48f0-11ea-9ed8-dbfe81a82ae1.png">
+
+## Filtre
+
 
 
 ## Profil de l'utilisateur
