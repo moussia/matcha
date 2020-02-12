@@ -20,8 +20,6 @@
 $mail = new PHPMailer(true);
 
 try {
-    //Server settings
-    // $mail->SMTPDebug = 2;                                    // Enable verbose debug output
     $mail->isSMTP();                                            // Set mailer to use SMTP
     $mail->Host       = 'smtp.gmail.com';  // Specify main and backup SMTP servers
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
@@ -33,15 +31,7 @@ try {
     //Recipients
     $mail->setFrom('from@example.com', 'Mailer');
     $mail->addAddress($e);     // Add a recipient
-    // $mail->addAddress('ellen@example.com');               // Name is optional
-    //$mail->addReplyTo('info@example.com', 'Information');
-    //$mail->addCC('cc@example.com');
-   // $mail->addBCC('bcc@example.com');
-
-    // Attachments
-    //$mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
-    //$mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
-
+    
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = $s;
@@ -53,7 +43,7 @@ try {
 } catch (Exception $e) {
     // echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
-} // Fin fonction sendmail
+}
     ?>
 
 </body>
