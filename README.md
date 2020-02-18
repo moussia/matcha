@@ -52,7 +52,7 @@ Une fois qu’ils se sont réciproquement matchés, ces deux profils doivent s�
 
 <img width="1428" alt="recherche" src="https://user-images.githubusercontent.com/24608242/73942885-1f239d00-48f0-11ea-9dd8-bc961fa6e94e.png">
 
-## Note obtenu
+## Note
 
 <img width="955" alt="note" src="https://user-images.githubusercontent.com/24608242/73943419-04055d00-48f1-11ea-9e34-428b07c42682.png">
 
